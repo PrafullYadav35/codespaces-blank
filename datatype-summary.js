@@ -25,4 +25,4 @@ const myfn =  function(){
 
 console.log(typeof myfn)
 
-// learning: non primitive data types ka typeof object hota hai
+// learning: non primitive data types ka return type object hota hai
